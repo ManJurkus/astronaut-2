@@ -1,0 +1,48 @@
+header,
+footer
+{ 
+width: 800px;
+margin-left: calc((100% - 800px) / 2);
+
+
+
+}
+
+header {
+margin-top: 30px;
+
+
+}
+
+.top
+{float: right;
+
+}
+
+.top a {
+text-decoration:none;
+color: #664488;
+margin-left: 17px;
+}
+
+header img {
+    width: 7%;
+    height: 7%;
+}
+
+
+main img {
+    width: 50%;
+    
+
+}
+
+main {
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);
+    display: flex;
+
+}
+
+
+    
